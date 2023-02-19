@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-12-06T16:55:28Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.59,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "R3_CH340_Adapter"
+        },
+        "Owner": "  <>",
+        "Size": {
+            "X": 68.58,
+            "Y": 53.34
+        }
+    }
+}
